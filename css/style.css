@@ -1,0 +1,124 @@
+@font-face {
+    font-family: Eastwood;
+    src: url("Eastwood_ttf.ttf");
+}
+@font-face {
+    font-family: Overbrushing;
+    src: url("/Overbrushing1.otf")
+}
+.page_heading{
+    font-family: "overbrushing";
+    color: black;
+}
+.container-fluid img{
+    height: 100px;
+}
+.container-fluid{
+    height: 70px;
+    color: white;
+}
+.nav-item {
+    Font-family: "Eastwood";
+    font-size: 25px;
+    color: white;
+}
+.navbar{
+    color: white;
+}
+.btn{
+    padding: 10px 30px;
+    font-family: "Eastwood";
+    color: white;
+    border-radius: 50px;
+    border-color: black;
+    border-width: 3px;
+    background-color: rgb(221, 176, 16);
+}
+.dropdown-menu{
+    font-family: "Overbrushing";
+    background-color: white;
+}
+:root{
+    --bs-body-bg: rgb(219, 205, 170);
+}
+.customNav{
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+}
+.navbar-nav{
+    margin-left: 30%;
+      color: white;
+}
+.The-team p{
+    font-family: "Overbrushing";
+    font-size: 40px;
+}
+.bg-secondary{
+    height: 50px;
+    text-align: center;
+}
+.The-team ul{
+    font-family: "overbrushing";
+    font-size: 25px
+}
+.My-Role{
+    font-family: "overbrushing";
+    font-size: 30px;
+    color: white;
+}
+.role{
+    font-size: 20px;
+    color: black;
+}
+.row{
+    font-family: "overbrushing";
+    font-size: 30px;
+}
+.btn2{
+    font-family: "Eastwood";
+    color: white;
+    border-radius: 50px;
+    border-color: black;
+    border-width: 3px;
+    background-color: rgb(221, 176, 16);
+    padding: 20px;
+    width: 400px;
+    font-size: 30px;
+}
+.btn3{
+    font-family: "Eastwood";
+    color: white;
+    border-radius: 50px;
+    border-color: black;
+    border-width: 3px;
+    background-color: rgb(221, 176, 16);
+    padding: 20px;
+    width: 400px;
+    font-size: 30px;
+}
+.container{
+    padding: 40px;
+}
+.Process{
+    padding: 90px;
+    font-family: "eastwood";
+    font-size: 70px;
+}
+.Persona{
+    font-family: "overbrushing";
+    font-size: 30px;
+    padding: 80px;
+}
+.persona1{
+    padding: 30px;
+}
+.persona2{
+    padding: 50px 300px 100px 100px;
+}
+.Research{
+    font-family: "overbrushing";
+    font-size: 30px;
+}
+
+
