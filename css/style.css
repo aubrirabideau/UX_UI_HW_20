@@ -6,9 +6,9 @@
     font-family: Overbrushing;
     src: url("/Overbrushing1.otf")
 }
-.page_heading{
-    font-family: "overbrushing";
-    color: black;
+.page_heading h1{
+    font-family: "eastwood";
+    font-size: 40px;
 }
 .container-fluid img{
     height: 100px;
@@ -49,6 +49,10 @@
 .navbar-nav{
     margin-left: 30%;
       color: white;
+}
+.initiative{
+    font-family: "overbrushing";
+    font-size: 25px;
 }
 .The-team p{
     font-family: "Overbrushing";
@@ -120,5 +124,46 @@
     font-family: "overbrushing";
     font-size: 30px;
 }
+.competitive-analysis{
+    font-family: "overbrushing";
+    font-size: 30px;
+    padding: 0px 50px;
+}
+.competitive-analysis img{
+    width: 124%;
+    padding: 30px 0px 80px;
+}
+.prototype{
+    font-family: "overbrushing";
+    font-size: 30px;
+    padding: 0px 0px 0px 100px;
+}
+.prototype img{
+    height: 600px;
+}
+.clickable{
+    padding: 100px 0px;
+    font-size: 47px;
+}
+.clickable img{
+    height: 300px;
+}
+.link-to-demo{
+    font-size: 30px;
+    font-family: "overbrushing";
+}
+.User-Testing{
+    padding: 100px 0px 0px 0px;
 
+}
+.Final-thoughts{
+    font-size: 47px;
+}
+.thoughts{
+    font-family: "overbrushing";
+    font-size: 25px;
+}
+.results{
+    font-size: 25px;
+}
 
