@@ -39,7 +39,7 @@
     background-color: white;
 }
 :root{
-    --bs-body-bg: rgb(219, 205, 170);
+    --bs-body-bg: rgba(50, 69, 39, 0.458);
 }
 .customNav{
     position: fixed;
